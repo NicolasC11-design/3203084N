@@ -1,0 +1,7 @@
+a= int(input("Digite o primero número: "))
+b= int(input("Digite o segundo número: "))
+print ( a + b )
+print ( a - b )
+print ( a * b )
+print ( a ** b )
+print (a / b)
